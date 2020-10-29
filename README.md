@@ -24,7 +24,10 @@
                                                                                                                             										                                        	<input type="email" name="email" value="" required="">                                        </td></tr>
                                 								                                																<tr>
 
-<td><label>Вопросы и пожелания*</label></td><td>                                                                                                     </td></tr>
+<td><label>Вопросы и пожелания*</label></td><td>
+                                                                                    	<textarea name="label:Вопросы_и_пожелания" required=""></textarea>
+                                        										                                        </td></tr>
                                 	</tbody></table>
     <input type="submit" value="Submit">
 </form>
+                                   
